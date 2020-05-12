@@ -1,8 +1,8 @@
 # Projetos:
 
-1. [BBSPraia](.github/README.md#BBSPraia)
-2. [EventosCBMPB](.github/README.md#EventosCBMPB)
-3. [BeerGame](.github/README.md#BeerGame)
+1. [BBSPraia](#BBSPraia)
+2. [EventosCBMPB](#EventosCBMPB)
+3. [BeerGame](#BeerGame)
 
 ## BBSPraia:
 
