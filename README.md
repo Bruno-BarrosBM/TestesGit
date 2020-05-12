@@ -1,13 +1,11 @@
-### Table of contents
+# Projetos:
 
-1. [Coisa UM](https://github.com/Bruno-BarrosBM/TestesGit/new/master#coisa-um)
-2. Coisa DOIS
-3. Coisa TRÊS
+1. [BBSPraia](.github/README.md#BBSPraia)
+2. [EventosCBMPB](.github/README.md#EventosCBMPB)
+3. [BeerGame](.github/README.md#BeerGame)
 
-# Coisa UM
+## BBSPraia:
 
-```javascript
-if(a === b) {
-  return a * b
-  }
-```
+## EventosCBMPB:
+
+## BeerGame:
